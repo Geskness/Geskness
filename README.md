@@ -21,4 +21,4 @@
   
  <img aling="center" alt="Gess-img" height="200" src="https://i.pinimg.com/564x/28/63/07/286307ba139495181c1dcb11c947b0b8.jpg" />
 
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/geskness/geskness/blob/output/github-contribution-grid-snake.svg)
