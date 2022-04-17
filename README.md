@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://beacouns.ai/geskness">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geskness&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img alt="Gess-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/28/63/07/286307ba139495181c1dcb11c947b0b8.jpg" /> 
+  <img alt="Gess-pic" height="176"  width="232" src="https://i.pinimg.com/564x/28/63/07/286307ba139495181c1dcb11c947b0b8.jpg" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geskness&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
