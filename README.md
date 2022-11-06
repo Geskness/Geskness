@@ -1,4 +1,4 @@
-<h2> Olá! Eu sou a Géssica Nunes </h2>
+<h2> Olá! Eu sou Géssica Nunes </h2>
 
 - 🌱 Estudando Node.js, TypeScript e React.
 - 👯 Procurando uma oportunidade de desenvolvimento profissional na área de TI!
