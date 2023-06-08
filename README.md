@@ -1,6 +1,6 @@
 <h2> Olá! Eu sou Géssica Nunes </h2>
 
-- 🌱 Estudando Node.js, TypeScript e React.
+- 🌱 Estudando Python, TypeScript e Node.js.
 - 👯 Procurando uma oportunidade de desenvolvimento profissional na área de TI!
 - 😄 Pronouns: Ela/Dela 
 
